@@ -31,7 +31,7 @@ public class Laskuri {
     }
 
     public String toString() {
-        return "Laskurin lukema on " + this.tapahtumia;
+        return "Laskurin lukema on: " + this.tapahtumia;
     }
 
 }
