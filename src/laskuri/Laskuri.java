@@ -5,7 +5,9 @@ public class Laskuri {
     /* laskuriolion kentan arvoa voi kasvattaa yhdella kutsumalla metodia
      lisaa(). Arvoa voi tarkastella ja sen voi nollata.                 */
     private int tapahtumia;
-
+    
+    /* MUOKATTU GITHUBISSA */
+    
     public Laskuri(int alkuarvo) {
         // konstruktori, kuormitettu. Alkuarvon tulee olla >= 0.
         if (alkuarvo < 0) {
