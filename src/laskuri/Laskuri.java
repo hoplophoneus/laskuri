@@ -6,7 +6,7 @@ public class Laskuri {
      lisaa(). Arvoa voi tarkastella ja sen voi nollata.                  */
     private int tapahtumia;
     
-    /* MUOKATTU GITHUBISSA... */
+    /* MUOKATTU GITHUBISSA... ...*/
     
     public Laskuri(int alkuarvo) {
         // konstruktori, kuormitettu. Alkuarvon tulee olla >= 0.
